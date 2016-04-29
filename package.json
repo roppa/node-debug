@@ -1,0 +1,13 @@
+{
+  "name": "debug",
+  "version": "1.0.0",
+  "description": "Test debug app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mark Robson <mark.o.robson@gmail.com> (http://digioli.co.uk)",
+  "license": "ISC"
+}
